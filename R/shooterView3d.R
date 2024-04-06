@@ -27,7 +27,7 @@ shooterView3d <-
 
     rgl::points3d (pos)
 
-    rgl::points3D(
+    rgl::points3d(
       shooterPos[1],
       shooterPos[2],
       shooterPos[3],
